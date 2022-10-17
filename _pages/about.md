@@ -7,16 +7,14 @@ redirect_from:
   - /about.html
 ---
 
-My research is broadly focused on the evolutionary ecology of terrestrial wildlife. I incorporate traditional ecological field methods with genomic tools to investigate how both natural and anthropogenic drivers influence evolutionary processes including speciation, hybridization, adaptation, and shifting range dynamics. 
+I use genetic and genomic tools to inform the conservation of wildlife populations. I focus on small, isolated, and rare populations that possess a subset of the genetic diversity of their historical countermarks. I combine **noninvasive DNA** with traditional field methods to provide information for data-scarce taxa and **genomic analyses** to investigate how complex genetic factors interact in small popualtions, including inbreeding depression, outbreeding depression, maintenace of local adaptations, and adaptive introgression.  
 
 <img align="right" src="/images/MECU_Logo_NEWFONT_1000.png" width="180"> \
-I am currently a postdoctoral scholar in the [Mammalian Ecology and Conservation Unit](https://mecu.ucdavis.edu) (MECU) at the University of California, Davis researching the effects of disease outbreaks on metapopulation connectivity, genetic diversity, and inbreeding-load in the San Joaquin kit fox (*Vulpes macrotis mutica*).
+Currently, I am a postdoctoral researcher in the [Mammalian Ecology and Conservation Unit](https://mecu.ucdavis.edu) (MECU) at the University of California, Davis. I have projects using whole genomes to 1) investigate inbreeding of the Sierra Nevada red fox and other isolated montane populations, and 2) the evolutionary history of red wolves and other historical North American canis species. 
 
-My dissertation research was also conducted within the MECU at the University of California, Davis. As an Ecology Ph.D. student, I investigated the impacts of secondary contact and hybridization between distinct canid lineages, focusing on two different systems, the red fox (*Vulpes vulpes*) and the gray fox (*Urocyon cinereoargenteus*). These vary both in the origins of secondary contact (anthropogenic vs. natural range expansion) and in the level of divergence between lineages, making them valuable systems to explore the mechanisms maintaining lineage boundaries as well as the role of selective introgression (i.e. the sharing of beneficial genetic variation) in their evolution.
-
-For more on my dissertation work check out my [research](https://squisquater.github.io/research/){: .btn--research} page!
+For more on past work, check out my [research](https://cbquinn.github.io/research/){: .btn--research} page.
 
 # Education
-* B.S. in Evolution, Ecology, and Biodiversity, University of California, Davis, 2012
-* Ph.D in Ecology, Area of Emphasis in Genomics and Genetics, University of California, Davis, August 2022
+* B.A. in Geology-Biology, Brown University, 2005
+* Ph.D in Ecology, University of California, Davis, 2018
 
