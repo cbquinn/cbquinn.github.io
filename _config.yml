@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Sophie Preckler-Quisquater"
+title                    : "Cate Brown Quinn"
 title_separator          : "-"
-name                     : &name "Sophie Preckler-Quisquater"
+name                     : &name "Cate Brown Quinn"
 description              : &description "personal description"
-url                      : https://squisquater.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://cbquinn.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "squisquater/squisquater.github.io"
+repository               : "cbquinn/cbquinn.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,12 +80,12 @@ analytics:
 
 # Site Author
 author:
-  name             : # "Sophie Preckler-Quisquater"
+  name             : # "Cate Brown Quinn"
   avatar           : "Sophie_Yosemite_Photo4.png"
   bio              : "Postdoctoral Scholar  🦊+🧬   University of California, Davis"
-  location         : # "Sacramento, CA"
+  location         : # "South Lake Tahoe, CA"
   employer         : # "University of California, Davis"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=YxuViIwAAAAJ&view_op=list_works&gmla=AJsN-F7n5K4Xv1pmhh5aYnqfXuZ36owfShNVRfKR6PGEtb5Q-d_TKopGDizKJX9H9jvYnWpEGrB7ZoM79jw8bvdpXixUczSJZDG5hebMAJI-L4b791SoUp8"
   email            : "squisquater@ucdavis.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : [squisquater]
+  github           : [cbquinn]
   google_plus      :
   keybase          :
   instagram        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "@squisquater"
+  twitter          : #"@twittername"
   vine             :
   weibo            :
   xing             :
