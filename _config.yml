@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : #&twitter
 facebook:
   username               :
   app_id                 :
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : # "Cate Brown Quinn"
-  avatar           : "Sophie_Yosemite_Photo4.png"
+  avatar           : #"Sophie_Yosemite_Photo4.png"
   bio              : "Postdoctoral Scholar  University of California, Davis"
   location         : # "South Lake Tahoe, CA"
   employer         : # "University of California, Davis"
