@@ -82,12 +82,12 @@ analytics:
 author:
   name             : # "Cate Brown Quinn"
   avatar           : "Sophie_Yosemite_Photo4.png"
-  bio              : "Postdoctoral Scholar  🦊+🧬   University of California, Davis"
+  bio              : "Postdoctoral Scholar  University of California, Davis"
   location         : # "South Lake Tahoe, CA"
   employer         : # "University of California, Davis"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?hl=en&user=YxuViIwAAAAJ&view_op=list_works&gmla=AJsN-F7n5K4Xv1pmhh5aYnqfXuZ36owfShNVRfKR6PGEtb5Q-d_TKopGDizKJX9H9jvYnWpEGrB7ZoM79jw8bvdpXixUczSJZDG5hebMAJI-L4b791SoUp8"
-  email            : "squisquater@ucdavis.edu"
+  googlescholar    : "https://scholar.google.com/citations?user=Ilull9cAAAAJ&hl=en&oi=ao"
+  email            : "cbquinn@ucdavis.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/my-orcid?orcid=0000-0001-8885-5297"
+  orcid            : #"http://orcid.org/my-orcid?orcid=0000-0001-8885-5297"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
